@@ -1,4 +1,4 @@
-# sRGBencoding
+# sRGB Encoding
 Encoding images in colorful noise so that they may be viewed through a grayscale filter
 
 The algorithm works by 
