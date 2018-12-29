@@ -9,5 +9,5 @@ The algorithm works by
 
 3.) Setting the linear RGB values to the calculated luminance
 
-4.) Converting the new linear RGB values to the new, non-linear sRGB color space
+4.) Transforming the new linear RGB values to the new, non-linear sRGB color space
 
